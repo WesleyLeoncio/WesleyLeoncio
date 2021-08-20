@@ -9,6 +9,7 @@
     <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Wesley-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+    <img align="right" alt="Wesley-gif" src="https://pa1.narvii.com/7106/2db379e298ef026bd2ff886f0161058bbc3519c0r1-498-330_hq.gif">
 </div>
   
   ##
