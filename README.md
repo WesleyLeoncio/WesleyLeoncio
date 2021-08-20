@@ -9,7 +9,7 @@
     <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Wesley-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-    <img align="right" alt="Wesley-gif" src="https://tenor.com/view/yugi-muto-thumbs-up-yugioh-yami-yugi-gif-7815642">
+    <img align="right" alt="Wesley-gif" src="https://c.tenor.com/IyKWWoZkFOEAAAAC/yu-gi-oh-cards.gif">
 </div>
   
   ##
