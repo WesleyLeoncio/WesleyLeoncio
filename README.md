@@ -21,7 +21,6 @@
    <a href="LINK" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     
     ![Snake animation](https://github.com/wesleyleoncio/wesleyleoncio/blob/output/github-contribution-grid-snake.svg)
-    
 </div>
  
 
