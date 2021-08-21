@@ -9,7 +9,7 @@
     <img align="center" alt="Wesley-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
     <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Wesley-gif" height="130" width="130"src="https://c.tenor.com/WIN2AP5NB0IAAAAC/hat-anime.gif">
+    <img align="right" alt="Wesley-gif" height="130" width="130"src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif">
 </div>
   
   ##
