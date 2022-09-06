@@ -12,7 +12,7 @@
     <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="right" alt="Wesley-gif" height="150" width="130"src="https://i.giphy.com/media/kclEz5mbAtt65jcaTr/giphy.webp">
+    <img align="right" alt="Wesley-gif" height="150" width="130"src="https://i.giphy.com/media/ihesvfpfc7kc3oRLY3/200.webp">
 </div>
   
   ##
