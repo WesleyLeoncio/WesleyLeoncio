@@ -12,7 +12,7 @@
     <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="right" alt="Wesley-gif" height="130" width="130"src="https://i.pinimg.com/564x/74/e6/d9/74e6d9af45e04846dcc0b49f44b9494a.jpg">
+    <img align="right" alt="Wesley-gif" height="130" width="130"src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-notfound.gif">
 </div>
   
   ##
