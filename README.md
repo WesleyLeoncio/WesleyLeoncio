@@ -41,7 +41,6 @@
             <img align="right" alt="Wesley-gif" height="150" width="130"src="https://i.giphy.com/media/c7dvcyuES52ClGE7vp/200.webp">
 </div>
 
-##
 
 <div>
     <a href="mailto:wesley.leoncio.izi@gmail.com" target="_blank"><img
