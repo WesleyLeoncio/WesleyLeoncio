@@ -38,6 +38,7 @@
                 <img align="center" alt="PHP" height="40" width="50"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
             </a>
+            <img align="right" alt="Wesley-gif" height="150" width="130"src="https://i.giphy.com/media/c7dvcyuES52ClGE7vp/200.webp">
 </div>
 
 ##
