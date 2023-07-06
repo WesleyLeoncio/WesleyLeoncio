@@ -31,14 +31,17 @@
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
             </a>
             <a href="https://github.com/WesleyLeoncio">
-                <<img align="center" alt="Flutter" height="30" width="40"
+                <img align="center" alt="Flutter" height="30" width="40"
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
             </a>
             <a href="https://github.com/WesleyLeoncio">
                 <img align="center" alt="PHP" height="40" width="50"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
             </a>
-            <img align="right" alt="Wesley-gif" height="150" width="130"src="https://i.giphy.com/media/c7dvcyuES52ClGE7vp/200.webp">
+             <a href="https://github.com/WesleyLeoncio">
+                 <img align="right" alt="Wesley-gif" height="150" width="130"src="https://i.giphy.com/media/c7dvcyuES52ClGE7vp/200.webp">
+            </a>
+           
 </div>
 
 ##
