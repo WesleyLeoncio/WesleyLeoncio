@@ -11,10 +11,6 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     </a>
     <a href="https://github.com/WesleyLeoncio">
-        <img align="center" alt="VueJS" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-    </a>
-    <a href="https://github.com/WesleyLeoncio">
         <img align="center" alt="JS" height="40" width="50"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
@@ -22,6 +18,10 @@
         <img align="center" alt="TS" height="40" width="50"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
         <a>
+            <a href="https://github.com/WesleyLeoncio">
+        <img align="center" alt="VueJS" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    </a>
             <a href="https://github.com/WesleyLeoncio">
                 <img align="center" alt="HTML5" height="40" width="50"
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
