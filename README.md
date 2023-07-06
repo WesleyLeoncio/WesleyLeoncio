@@ -41,14 +41,12 @@
             <img align="right" alt="Wesley-gif" height="150" width="130"src="https://i.giphy.com/media/c7dvcyuES52ClGE7vp/200.webp">
 </div>
 
-
-<div>
-    <a href="mailto:wesley.leoncio.izi@gmail.com" target="_blank"><img
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-            target="_blank"></a>
-    <a href="https://www.linkedin.com/in/wesleyleoncio" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>
-    ![Snake animation](https://github.com/wesleyleoncio/wesleyleoncio/blob/output/github-contribution-grid-snake.svg)
-
+##
+  
+  <div> 
+       <a href = "mailto:wesley.leoncio.izi@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/wesleyleoncio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+   ![Snake animation](https://github.com/wesleyleoncio/wesleyleoncio/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
