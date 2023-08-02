@@ -10,6 +10,10 @@
         <img align="center" alt="Java" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     </a>
+     <a href="https://github.com/WesleyLeoncio">
+        <img align="center" alt="Spring" height="40" width="50"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+    </a>
     <a href="https://github.com/WesleyLeoncio">
         <img align="center" alt="JS" height="40" width="50"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
