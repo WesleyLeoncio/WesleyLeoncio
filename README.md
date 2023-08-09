@@ -5,6 +5,9 @@
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyleoncio&layout=compact&langs_count=7&theme=highcontrast" />
 </div>
+
+### 🕹 Tecnologias Principais.
+        
 <div style="display: inline_block"><br>
     <a href="https://github.com/WesleyLeoncio">
         <img align="center" alt="Java" height="40" width="50"
@@ -26,6 +29,9 @@
         <img align="center" alt="VueJS" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     </a>
+     <a href="https://github.com/WesleyLeoncio">
+        <img align="center" alt="Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+      </a>
             <a href="https://github.com/WesleyLeoncio">
                 <img align="center" alt="HTML5" height="40" width="50"
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -48,7 +54,8 @@
            
 </div>
 
-##
+### 🕵 Contatos
+
   
   <div> 
        <a href = "mailto:wesley.leoncio.izi@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
