@@ -4,11 +4,11 @@
             src="https://github-readme-stats.vercel.app/api?username=wesleyleoncio&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyleoncio&layout=compact&langs_count=7&theme=highcontrast" />
-</div>
+</div><br>
 
 ### 🕹 Tecnologias Principais.
         
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <a href="https://github.com/WesleyLeoncio">
         <img align="center" alt="Java" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -56,6 +56,7 @@
 
 ### 🕵 Contatos
 
+</br>
   
   <div> 
        <a href = "mailto:wesley.leoncio.izi@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
