@@ -1,10 +1,11 @@
 <div>
-    <a href="https://github.com/wesleyleoncio/">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=wesleyleoncio&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
-        <img height="180em"
+  <a href="https://github.com/herikLorencao">
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=wesleyleoncio&include_all_commits=true&count_private=true&show_icons=true&layout=compact&langs_count=7&theme=highcontrast">
+  <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyleoncio&layout=compact&langs_count=7&theme=highcontrast" />
-</div><br>
+  </a>
+</div>
+<br>
 
 ### 🕹 Tecnologias Principais.
         
