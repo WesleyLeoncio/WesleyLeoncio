@@ -19,6 +19,10 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
     </a>
   <a href="https://github.com/WesleyLeoncio">
+        <img align="center" alt="Node" height="40" width="50"
+           src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />
+    </a>
+  <a href="https://github.com/WesleyLeoncio">
         <img align="center" alt="Angular" height="40" width="50"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     </a>
